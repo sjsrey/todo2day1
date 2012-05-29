@@ -5,19 +5,19 @@ todo2day1
 ****
 What
 ****
-Posting of completed tasks from todo.txt todo_
-to DayOne dayone_
+Posting of completed tasks from `todo.txt`_
+to `DayOne`_. 
 
 
 ************
 Dependencies
 ************
 
- * Python python_
- * todo.txt todo_
- * DayOne dayone_
+ * `Python`_
+ * `todo.txt`_
+ * `DayOne`_ 
 
 
-.. _todo: http://todotxt.com
-.. _python: http://python.org
-.. _dayone: http://dayoneapp.com
+.. _todo.txt: http://todotxt.com
+.. _Python: http://python.org
+.. _DayOne: http://dayoneapp.com
