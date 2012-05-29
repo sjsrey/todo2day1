@@ -1,11 +1,17 @@
-# todo2day1
+#########
+todo2day1
+#########
 
-## What
+****
+What
+****
 Posting of completed tasks from [todo.txt](http://todotxt.com/) to
 [DayOne](http://dayoneapp.com).
 
 
-## Dependencies
+************
+Dependencies
+************
 
  - [Python](http://www.python.org)
  - [todo.txt]((http://todotxt.com/)
