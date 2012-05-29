@@ -47,7 +47,7 @@ s = "todo.txt report for %s\n"%TODAY
 ns = len(s)-1
 s += "="*ns
 s += "\n"
-s = s + "".join(reportLines)
+s = s + "\n".join(reportLines)
 
 cmd = "echo \"%s\" | %s new"%(s,DAYONE)
 out = subprocess.call(cmd, shell=True)
